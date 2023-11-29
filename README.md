@@ -31,9 +31,6 @@ The **classification threshold** was also optimized to only assign food/service/
 ## Performance
 
 - **Accuracy**: 82%
-- **Food** precision: 85%  
-- **Service** recall: 68%
-- **Ambiance** F1: 52%
 
 Carefully crafting the hypothesis template and tuning the decision threshold based on model confidence scores were key to maximizing classification accuracy.
 
